@@ -1,7 +1,7 @@
 # Site
 name: "Qpoch"
 title: "Qpoch | Research"
-description: "Datascience, Machine Learning and Image Processing"
+description: "Data science, Machine Learning and Image Processing. Daily Blogs, tutorials and research summaries including Tensorflow, PyTorch and Keras. Stay connected to learn Data science with Qpoch."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
